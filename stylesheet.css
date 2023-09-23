@@ -1,20 +1,19 @@
 @font-face {
-  font-family: "JetBrainsMono Nerd Font";
+  font-family: "D2CodingLigature Nerd Font";
   font-style: normal;
   font-weight: 200;
-  src: url('https://github.com/geomgle/fonts/D2CodingligatureNerd.ttf') format('truetype');
+  src: url('https://github.com/geomgle/fonts/D2CodingLigatureNerdFont-Regular.ttf') format('truetype');
 }
 
 @font-face {
-  font-family: "JetBrainsMono Nerd Font";
+  font-family: "D2CodingLigature Nerd Font";
   font-style: normal;
   font-weight: 400;
-  src: url('https://github.com/geomgle/fonts/D2CodingligatureNerd.ttf') format('truetype');
+  src: url('https://github.com/geomgle/fonts/D2CodingLigatureNerdFont-Regular.ttf') format('truetype');
 }
 
-
 @font-face {
-  font-family: "JetBrainsMono Nerd Font";
+  font-family: "D2CodingLigature Nerd Font";
   font-weight: 800;
-  src: url('https://github.com/geomgle/fonts/D2CodingligatureNerd-Bold.ttf') format('truetype');
+  src: url('https://github.com/geomgle/fonts/D2CodingLigatureNerdFont-Bold.ttf') format('truetype');
 }
